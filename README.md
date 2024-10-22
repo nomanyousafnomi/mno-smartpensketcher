@@ -49,10 +49,9 @@ The core functionality of the app is encapsulated in the provided Python code, w
 - **PDF Generation**: Creates a downloadable PDF of the plotted sketch.
 
 ## Contact
-For any inquiries or issues, feel free to reach out at: [p200614@pwr.nu.edu.pk](mailto:p200614@pwr.nu.edu.pk)
+For any inquiries or issues, feel free to reach out at: [Noman Yousaf](mailto:p200614@pwr.nu.edu.pk)
 
 ## License
-Copyright (c) 2024 [Noman Yousaf](https://nomanyousafnomi.me)
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
@@ -61,3 +60,6 @@ Thanks to the contributors and the open-source community for their support and r
 ---
 
 Feel free to explore and modify the code to suit your needs!
+
+
+Copyright (c) 2024 [Noman Yousaf](https://nomanyousafnomi.me)
