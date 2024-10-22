@@ -52,7 +52,8 @@ The core functionality of the app is encapsulated in the provided Python code, w
 For any inquiries or issues, feel free to reach out at: [Noman Yousaf](mailto:p200614@pwr.nu.edu.pk)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License (GPL) v3. See the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 Thanks to the contributors and the open-source community for their support and resources in building this application.
